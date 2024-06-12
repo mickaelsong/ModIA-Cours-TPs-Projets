@@ -1,2 +1,2 @@
-# Courses-Academic-Projects
+# Cours, TPs et Projets 
 Parcours Modélisation &amp; Intelligence Artificielle
